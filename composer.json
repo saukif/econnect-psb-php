@@ -1,5 +1,5 @@
 {
-    "name": "everbinding/econnect-psb-php",
+    "name": "saukif/econnect-psb-php",
     "description": "PHP example implementation for using the Procurement Service Bus.",
     "keywords": [
         "econnect",
